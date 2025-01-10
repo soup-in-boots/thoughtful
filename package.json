@@ -1,0 +1,23 @@
+{
+  "name": "thoughtful",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soup-in-boots/thoughtful.git"
+  },
+  "author": "Zachary Hueras <zachary.hueras@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soup-in-boots/thoughtful/issues"
+  },
+  "homepage": "https://github.com/soup-in-boots/thoughtful#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
